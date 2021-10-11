@@ -1,0 +1,22 @@
+h1{
+    color:chartreuse;
+}
+
+.heads{
+    background-color:bisque;
+    display:flex;
+    justify-content: space-between;
+}
+.parent{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.p1{
+    display:flex;
+    justify-content: center;
+}
+h2,p{
+    text-align:center;
+    color:darkblue
+}
